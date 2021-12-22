@@ -28,7 +28,7 @@ print(U)
 */
 ```
 ## Output:
-![Github logo](capture.PNG)
+![Github logo](Capture.PNG)
 
 
 ## Result:
